@@ -1,0 +1,3 @@
+pandas<3.0.0
+googletrans<5.0.0
+ruff<1.0.0
