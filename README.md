@@ -2,6 +2,10 @@
 
 Bachelor thesis
 
+### Install requirements
+
+`pip install -r requirements.txt`
+
 ### Run
 
 #### Preprocessing
